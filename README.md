@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mickstech&label=Profile%20views&color=0e75b6&style=flat" alt="mickstech" /> </p>
 
-- 🔭 I’m currently working on **Sofa Store**
+- 🔭 I’m currently working on [Sofa Store](https://mickstech.github.io/my_sofa_finish/#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
